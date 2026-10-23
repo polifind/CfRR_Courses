@@ -96,6 +96,7 @@ Please add new items under the relevant letter so this page stays easy to scan.
 ### S
 
 - [Software Carpentry Lessons](https://software-carpentry.org/lessons/) — Open-source lessons teaching fundamental programming and data science skills.
+- [Surgical-video split-audit exercise](https://operavue.com/resources#split-audit) — A synthetic CSV and local Python checker for learning about source-case overlap across train, validation, and test sets, with a guide to its limitations. Published by Operavue, a commercial surgical-data company.
 - [Sustainable computing in science](https://www.ebi.ac.uk/training/online/courses/sustainable-computing-in-science/) - An introduction to the environmental impacts of computational research.
 
 ### T
